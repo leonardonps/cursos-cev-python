@@ -1,7 +1,7 @@
 # Curso de Python - Curso em Vídeo
 Aqui está o repositório das aulas e desafios do cursos de Python (Mundo 1, Mundo 2 e Mundo 3) do Curso em Vídeo (Gustavo Guanabara). Durante essa série de vídeo-aulas, tive contato com os conteúdos abaixo.
 
-## Conteúdos do Mundo 1
+## Conteúdo do Mundo 1
 
 - Input/Output de dados
 - Estrutura de condição simples 
@@ -9,12 +9,12 @@ Aqui está o repositório das aulas e desafios do cursos de Python (Mundo 1, Mun
 - Utilização de módulos pelo PyCharm
 - Manipulação de texto
 
-## Conteúdos do Mundo 2
+## Conteúdo do Mundo 2
 
 - Estrutura de condição aninhada IF/ELIF
 - Estruturas de repetição WHILE e FOR
 
-## Conteúdos do Mundo 3
+## Conteúdo do Mundo 3
 - Tuplas, listas e dicionários
 - Funções
 - Modularização
